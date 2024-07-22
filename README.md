@@ -20,7 +20,7 @@ Graphs:
      Piechart showing shpping mode percentage
      Column charts showing Sales vs States, Sales vs Market, Sales vs City, Sales vs Region
 
-     Video explanation:https://drive.google.com/file/d/1XD_v3YKNwaPQkh5Kge2MnYBRR7AQeFpj/view?usp=drive_link
+     Video explanation: https://drive.google.com/file/d/1XD_v3YKNwaPQkh5Kge2MnYBRR7AQeFpj/view?usp=drive_link
      
 Insights Gained:
      Standard Class shipping is the most used method in shipping modes.
